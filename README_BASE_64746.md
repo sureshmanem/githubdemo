@@ -9,5 +9,3 @@ Changed
 Just soome updatesta
 
 Some Text
-
-Trouble Code Fixed

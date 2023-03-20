@@ -10,4 +10,8 @@ Just soome updatesta
 
 Some Text
 
-Trouble Code Fixed
+<<<<<<< HEAD
+Causing issues again
+=======
+Troucbe Clode
+>>>>>>> verybad
